@@ -1,0 +1,22 @@
+.pink {
+	background-color: pink;
+}
+
+.big {
+
+	font-size: 24px;
+}
+
+#one {
+	color: blue;
+	font-size: 32px;
+}
+
+#two {
+	background-color: green;
+	color: black;
+}
+
+#two {
+	font-size: 32px;
+}
